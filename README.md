@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Handson-coder
 - 👀 I’m interested in Programmer's life
 - 🌱 I’m currently learning javaScript
-- 💞️ I’m looking to collaborate on Hacktiv8
+<!-- - 💞️ I’m looking to collaborate on Hacktiv8 -->
 - 📫 How to reach me hansenpanggabean8@gmail.com
 
 <!---
